@@ -8,3 +8,4 @@ The developer has uploaded the code into GitHub repo also the repo has some imag
 Copy the GitHub repo code into /var/www/html
 Create an S3 bucket, and copy/deploy the images from GitHub repo into the s3 bucket and change the permission to public readable.
 Create a Cloudfront using S3 bucket(which contains images) and use the Cloudfront URL to update in code in /var/www/html
+## The procedure of this project is explained step by step in this blog
