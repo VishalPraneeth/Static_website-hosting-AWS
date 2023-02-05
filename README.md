@@ -11,6 +11,6 @@ We have to build an AWS infrastructure that can create AWS Instance, Volume, EBS
 # The procedure of this project is explained step by step in this blog:
 [Blog for DevOps project using Terraform Automation](https://vishal7771.hashnode.dev/devops-project-to-setup-infrastructure-on-aws-using-terraform)
 
-#Author
+# Author
 [Vishal](https://github.com/VishalPraneeth)
 
