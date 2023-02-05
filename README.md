@@ -9,5 +9,5 @@ We have to build an AWS infrastructure that can create AWS Instance, Volume, EBS
 - Create an S3 bucket, and copy/deploy the images from GitHub repo into the s3 bucket and change the permission to public readable.
 - Create a Cloudfront using S3 bucket(which contains images) and use the Cloudfront URL to update in code in /var/www/html
 ## The procedure of this project is explained step by step in this blog:
-https://vishal7771.hashnode.dev/devops-project-to-setup-infrastructure-on-aws-using-terraform
+[Blog for DevOps project using Terraform Automation](https://vishal7771.hashnode.dev/devops-project-to-setup-infrastructure-on-aws-using-terraform)
 
